@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gradinDotCom, sometimes known as 2mOlaf (_the 2 meter Olaf in case you know a lot of Olafs_)
+- 👀 I’m interested in automation, Azure, Infrastructure as Code, and IoT.
+- 🌱 I dabble in a variety of scripting languages and am rusty on PHP. I'm _really_ rusty on ColdFusion!
+- 📫 I'm not terribly active on social platforms except Discord, but I'm pretty easy to find!
